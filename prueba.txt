@@ -1,1 +1,4 @@
 Este es un archivo de prueba en la nueva rama  "archivo": Unknown word.
+Este es otro cambio en la rama clase2
+Este cambio es para crear el pull request
+
